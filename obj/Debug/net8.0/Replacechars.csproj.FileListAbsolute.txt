@@ -1,0 +1,14 @@
+C:\repos\code challenges\Replacechars\Replacechars\bin\Debug\net8.0\Replacechars.exe
+C:\repos\code challenges\Replacechars\Replacechars\bin\Debug\net8.0\Replacechars.deps.json
+C:\repos\code challenges\Replacechars\Replacechars\bin\Debug\net8.0\Replacechars.runtimeconfig.json
+C:\repos\code challenges\Replacechars\Replacechars\bin\Debug\net8.0\Replacechars.dll
+C:\repos\code challenges\Replacechars\Replacechars\bin\Debug\net8.0\Replacechars.pdb
+C:\repos\code challenges\Replacechars\Replacechars\obj\Debug\net8.0\Replacechars.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\code challenges\Replacechars\Replacechars\obj\Debug\net8.0\Replacechars.AssemblyInfoInputs.cache
+C:\repos\code challenges\Replacechars\Replacechars\obj\Debug\net8.0\Replacechars.AssemblyInfo.cs
+C:\repos\code challenges\Replacechars\Replacechars\obj\Debug\net8.0\Replacechars.csproj.CoreCompileInputs.cache
+C:\repos\code challenges\Replacechars\Replacechars\obj\Debug\net8.0\Replacechars.dll
+C:\repos\code challenges\Replacechars\Replacechars\obj\Debug\net8.0\refint\Replacechars.dll
+C:\repos\code challenges\Replacechars\Replacechars\obj\Debug\net8.0\Replacechars.pdb
+C:\repos\code challenges\Replacechars\Replacechars\obj\Debug\net8.0\Replacechars.genruntimeconfig.cache
+C:\repos\code challenges\Replacechars\Replacechars\obj\Debug\net8.0\ref\Replacechars.dll
